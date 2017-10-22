@@ -6,6 +6,7 @@ import (
 
 func main() {
 
+	fmt.Println("Program to display Array and Slices\n")
 	//mySlices := make([]string, 10, 20)
 	mySlices := []int{2, 3, 4, 5, 6, 7}
 	fmt.Println("Actual mySlices Array")
